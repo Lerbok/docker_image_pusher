@@ -1,3 +1,4 @@
 nginx
 mysql
-java:8
+java
+tomcat
