@@ -2,3 +2,15 @@ nginx
 mysql
 tomcat
 openjdk
+redis
+gitlab
+rancher
+portainer
+humpback
+jenkins
+navidrome
+penpot
+nps
+eaweedfs
+mattermost
+
