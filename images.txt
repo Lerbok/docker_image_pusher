@@ -3,7 +3,6 @@ mysql
 tomcat
 openjdk
 redis
-gitlab
 rancher
 portainer
 humpback
