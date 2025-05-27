@@ -3,7 +3,7 @@ mysql
 tomcat
 openjdk
 redis
-rancher
+rancher/rancher
 portainer
 humpback
 jenkins
