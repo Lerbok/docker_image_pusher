@@ -8,3 +8,4 @@ zookeeper
 bitnami/kafka
 nacos/nacos-server
 bitnami/prometheus
+alpine
