@@ -9,3 +9,4 @@ bitnami/kafka
 nacos/nacos-server
 bitnami/prometheus
 alpine
+postgres:12.16
